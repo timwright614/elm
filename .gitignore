@@ -1,0 +1,6 @@
+#DS store file
+
+.DS_Store
+
+# checkpoints
+.ipynb_checkpoints/
